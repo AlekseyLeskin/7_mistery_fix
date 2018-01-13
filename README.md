@@ -3,7 +3,7 @@
 Это простой пример использования тестирования в Python на примере функции, которая вычисляет корни квадратного уравнения:
 
 * `quadratic_equation.py` - это скрипт, который вычисляет корни квадратного уравнения. Если у Вас есть уравнение вида "ax2 + bx + c = 0", то данный скрипт поможет его решить. Просто введите значения a, b и c в качестве аргументов функции.
-* `tests.py` - это скрипт тестирования для "quadratic_equation.py". Подробнее о юнит-тестировании в Python можно почитать по ссылке - https://github.com/cgoldberg/python-unittest-tutorial#unittest---automated-testing-framework
+* `tests.py` - это скрипт тестирования для `quadratic_equation.py`. Подробнее о юнит-тестировании в Python можно почитать по ссылке - https://github.com/cgoldberg/python-unittest-tutorial#unittest---automated-testing-framework
 
 # Как использовать
 
